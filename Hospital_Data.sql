@@ -1,7 +1,7 @@
 ﻿create database Hospital_Records
 
 use Hospital_Records
-/*
+
 --Table creation
 create table patients_data (
     name VARCHAR(100) NOT NULL,
@@ -32,7 +32,7 @@ WITH (
     TABLOCK
 )
 
-*/
+
 select top 10 * from patients_data
 
 --Basic Data Exploration
