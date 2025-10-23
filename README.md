@@ -106,7 +106,7 @@ Reporting Capabilities
 - Export Functions: Data export capabilities for further analysis
 
 ## Project Repository Structure
-
+'''
 Hospital-Data-Analytics-SQL-POWERBI-EXCEL-Report/
 │
 ├── 📊 Data/
@@ -127,7 +127,7 @@ Hospital-Data-Analytics-SQL-POWERBI-EXCEL-Report/
 │   └── Hospital_Data_Report.pptx            # PowerPoint presentation on data insights
 │
 └── 📋 README.md                             # Project documentation file
-
+'''
 
 
 ## Repository Explanation
