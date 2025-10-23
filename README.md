@@ -7,9 +7,6 @@ A comprehensive healthcare data analytics solution that transforms raw hospital 
 - Raw Dataset (Excel): Original hospital data containing patient records, admissions, discharges, and clinical information
 - Cleaned Dataset (Excel): Processed and validated data with data quality improvements and standardization
 
-# Power BI Dashboard
-- <a href = "<img width="883" height="498" alt="Screenshot 2025-10-22 223524" src="https://github.com/user-attachments/assets/11c17ec6-ecf8-4cc6-87cd-e2c35f589a27"> Dasboard1 </a>
-
 ## SQL Analytics
 Hospital_Data_Queries.sql: Comprehensive SQL queries covering:
 - Patient admission and discharge analysis
