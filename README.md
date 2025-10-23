@@ -161,4 +161,5 @@ This project serves as a comprehensive portfolio piece demonstrating:
 
 
 ## LinkedIn
-https://www.linkedin.com/in/sri-yamini-bandaru-a68698284/
+[LinkedIn](https://www.linkedin.com/in/sri-yamini-bandaru-a68698284/)
+
