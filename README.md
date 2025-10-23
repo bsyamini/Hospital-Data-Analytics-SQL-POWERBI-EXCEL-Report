@@ -108,6 +108,7 @@ $$```
 
 ## Project Repository Structure
 
+ ```
 Hospital-Data-Analytics-SQL-POWERBI-EXCEL-Report/
 │
 ├── 📊 Data/
@@ -129,7 +130,7 @@ Hospital-Data-Analytics-SQL-POWERBI-EXCEL-Report/
 │
 └── 📋 README.md                             # Project documentation file
 
-$$```
+```
 
 
 ## Repository Explanation
