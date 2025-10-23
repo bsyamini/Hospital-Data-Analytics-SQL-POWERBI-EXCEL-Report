@@ -159,3 +159,6 @@ This project serves as a comprehensive portfolio piece demonstrating:
 - Healthcare data analysis and domain knowledge
 - Project documentation and presentation skills
 
+
+## LinkedIn
+https://www.linkedin.com/in/sri-yamini-bandaru-a68698284/
