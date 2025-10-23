@@ -113,24 +113,24 @@ Reporting Capabilities
 Hospital-Data-Analytics-SQL-POWERBI-EXCEL-Report/
 │
 ├── 📊 Data/
-│   ├── raw_hospital_data.xlsm           # Original dataset
-│   └── Hospital_Dataset.xlsm            # Processed and validated data
+│   ├── raw_hospital_data.xlsm               # Original dataset
+│   └── Hospital_Dataset.xlsm                # Processed and validated data
 │
 ├── 🔍 SQL/
-│   ├── hospital_data_queries.sql        # Analysis queries,Data preparation scripts
-│   ├── data_cleaning_scripts.sql        # Data preparation scripts
-│  
+│   ├── hospital_data_queries.sql            # Analysis queries and data preparation scripts
+│   └── data_cleaning_scripts.sql            # Data cleaning and transformation scripts
 │
 ├── 📈 Excel/
-│   └── hospital_dashboard.xlsx          # 3-page Excel dashboard with pivot tables
+│   └── hospital_dashboard.xlsx              # 3-page Excel dashboard with pivot tables
 │
 ├── 📊 PowerBI/
-│   └── hospital_dashboard.pbix          # 4-page Power BI dashboard
+│   └── hospital_dashboard.pbix              # 4-page Power BI dashboard
 │
 ├── 📚 Documentation/
-│   ├── Hospital_Data_Report.pptx        # Power point presentation on data insights
+│   └── Hospital_Data_Report.pptx            # PowerPoint presentation on data insights
 │
-└── 📋 README.md                         # This file
+└── 📋 README.md                             # Project documentation file
+
 
 
 ## Repository Explanation
